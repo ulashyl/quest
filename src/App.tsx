@@ -8,7 +8,7 @@ import ThirdPage from "./pages/ThirdPage";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/quest">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/second" element={<SecondPage />} />
