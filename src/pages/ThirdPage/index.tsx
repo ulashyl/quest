@@ -183,12 +183,6 @@ const ThirdPage = () => {
       {selectedNumber && (
         <div className="modal-overlay">
           <div className="modal-content">
-            <img
-              src={backButton}
-              alt="Back"
-              className="modal-back-button"
-              onClick={closeModal}
-            />
             <div className="modal-table-container">
               <img src={tableImage} alt="Table" className="modal-table-image" />
               <div className="modal-text-content">
@@ -206,6 +200,12 @@ const ThirdPage = () => {
                 </p>
               </div>
             </div>
+            <img
+              src={backButton}
+              alt="Back"
+              className="modal-back-button"
+              onClick={closeModal}
+            />
           </div>
         </div>
       )}

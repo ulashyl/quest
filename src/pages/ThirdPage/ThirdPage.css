@@ -114,6 +114,7 @@
   max-width: 170px;
   height: auto;
   border-radius: 10px;
+  margin-bottom: -100px;
 }
 
 .choose-button:hover {
@@ -150,6 +151,7 @@
   transition: all 0.3s ease;
   max-width: 200px;
   height: auto;
+  margin-top: -100px;
 }
 
 .modal-back-button:hover {
