@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/quest/static/css/main.f6a4a8b5.css",
+    "main.js": "/quest/static/js/main.b645729b.js",
+    "static/js/453.4dc69c82.chunk.js": "/quest/static/js/453.4dc69c82.chunk.js",
+    "static/media/category2.png": "/quest/static/media/category2.061ef8c50536e607b8ff.png",
+    "static/media/background1.png": "/quest/static/media/background1.eaf48924774db95c32e6.png",
+    "static/media/category3.png": "/quest/static/media/category3.013889044053f209aac6.png",
+    "static/media/back_btn.png": "/quest/static/media/back_btn.17ab1b0309144238a074.png",
+    "static/media/open.png": "/quest/static/media/open.ea3686eb2e7002adc8ad.png",
+    "static/media/login.png": "/quest/static/media/login.ddcd4651e2ed37900d6d.png",
+    "static/media/choose.png": "/quest/static/media/choose.43810810f7f048a933a0.png",
+    "static/media/table.png": "/quest/static/media/table.89c94949140b69cb4214.png",
+    "static/media/category1.png": "/quest/static/media/category1.5f2095aaa5bb86bb3580.png",
+    "static/media/pergament.jpg": "/quest/static/media/pergament.1dd4f24ee10c1289475c.jpg",
+    "static/media/third.jpg": "/quest/static/media/third.936584d7eb59447eca22.jpg",
+    "index.html": "/quest/index.html",
+    "main.f6a4a8b5.css.map": "/quest/static/css/main.f6a4a8b5.css.map",
+    "main.b645729b.js.map": "/quest/static/js/main.b645729b.js.map",
+    "453.4dc69c82.chunk.js.map": "/quest/static/js/453.4dc69c82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6a4a8b5.css",
+    "static/js/main.b645729b.js"
+  ]
+}
