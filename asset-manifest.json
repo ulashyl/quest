@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/quest/static/css/main.f6a4a8b5.css",
-    "main.js": "/quest/static/js/main.dce4f8d2.js",
+    "main.css": "/quest/static/css/main.262fc71c.css",
+    "main.js": "/quest/static/js/main.de57d34d.js",
     "static/js/453.4dc69c82.chunk.js": "/quest/static/js/453.4dc69c82.chunk.js",
     "static/media/category2.png": "/quest/static/media/category2.061ef8c50536e607b8ff.png",
     "static/media/background1.png": "/quest/static/media/background1.eaf48924774db95c32e6.png",
@@ -15,12 +15,12 @@
     "static/media/pergament.jpg": "/quest/static/media/pergament.1dd4f24ee10c1289475c.jpg",
     "static/media/third.jpg": "/quest/static/media/third.936584d7eb59447eca22.jpg",
     "index.html": "/quest/index.html",
-    "main.f6a4a8b5.css.map": "/quest/static/css/main.f6a4a8b5.css.map",
-    "main.dce4f8d2.js.map": "/quest/static/js/main.dce4f8d2.js.map",
+    "main.262fc71c.css.map": "/quest/static/css/main.262fc71c.css.map",
+    "main.de57d34d.js.map": "/quest/static/js/main.de57d34d.js.map",
     "453.4dc69c82.chunk.js.map": "/quest/static/js/453.4dc69c82.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6a4a8b5.css",
-    "static/js/main.dce4f8d2.js"
+    "static/css/main.262fc71c.css",
+    "static/js/main.de57d34d.js"
   ]
 }
