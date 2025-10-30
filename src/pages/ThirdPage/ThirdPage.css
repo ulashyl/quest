@@ -209,6 +209,120 @@
   max-width: 350px;
 }
 
+/* Ноутбуки и небольшие экраны */
+@media (min-width: 769px) and (max-width: 1024px) {
+  .table-image {
+    width: 450px;
+    height: 450px;
+  }
+
+  .table-content {
+    width: 360px;
+    height: 360px;
+    gap: 12px;
+  }
+
+  .category-image {
+    width: 50px;
+    height: 50px;
+  }
+
+  .number-button {
+    width: 45px;
+    height: 45px;
+    font-size: 15px;
+  }
+
+  .numbers-row {
+    gap: 12px;
+  }
+
+  .choose-button {
+    max-width: 180px;
+  }
+
+  /* Модальное окно для ноутбуков */
+  .modal-table-image {
+    width: 550px;
+    height: 550px;
+  }
+
+  .modal-text-content {
+    width: 350px;
+    height: 350px;
+  }
+
+  .modal-title {
+    font-size: 22px;
+  }
+
+  .modal-description {
+    font-size: 20px;
+    max-width: 290px;
+  }
+
+  .modal-back-button {
+    max-width: 240px;
+  }
+}
+
+/* Большие экраны и десктопы */
+@media (min-width: 1025px) {
+  .table-image {
+    width: 500px;
+    height: 500px;
+  }
+
+  .table-content {
+    width: 400px;
+    height: 400px;
+    gap: 10px;
+  }
+
+  .category-image {
+    width: 55px;
+    height: 55px;
+  }
+
+  .number-button {
+    width: 50px;
+    height: 50px;
+    font-size: 15px;
+  }
+
+  .numbers-row {
+    gap: 10px;
+  }
+
+  .choose-button {
+    max-width: 200px;
+  }
+
+  /* Модальное окно для десктопов */
+  .modal-table-image {
+    width: 600px;
+    height: 600px;
+  }
+
+  .modal-text-content {
+    width: 380px;
+    height: 380px;
+  }
+
+  .modal-title {
+    font-size: 24px;
+  }
+
+  .modal-description {
+    font-size: 22px;
+    max-width: 310px;
+  }
+
+  .modal-back-button {
+    max-width: 260px;
+  }
+}
+
 /* Мобильные устройства */
 @media (max-width: 768px) {
   .table-image {
@@ -258,7 +372,7 @@
 
   .modal-description {
     font-size: 18px;
-    max-width: 280px;
+    max-width: 250px;
   }
 
   .modal-back-button {
